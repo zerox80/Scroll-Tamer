@@ -29,7 +29,7 @@ Wenn Sie uns per E‑Mail kontaktieren:
 - Verarbeitete Daten: Ihre E‑Mail‑Adresse, der Inhalt Ihrer Nachricht sowie ggf. freiwillig übermittelte Diagnosedaten (z. B. Browser‑Version, URL, Beschreibung des Verhaltens).
 - Zweck: Bearbeitung Ihrer Anfrage und Verbesserung der Erweiterung.
 - Rechtsgrundlage: Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an Kommunikation/Support) bzw. lit. b (vorvertragliche Kommunikation), je nach Kontext.
-- Speicherdauer: Solange erforderlich zur Bearbeitung und Dokumentation der Anfrage; Löschwunsch per E‑Mail möglich.
+- Speicherdauer: Solange erforderlich zur Bearbeitung und Dokumentation der Anfrage. Löschanfragen beziehen sich ausschließlich auf unsere Korrespondenz in unserem Postfach. Wir können nur die Nachrichten löschen, die wir selbst gespeichert haben; eine Löschung bei Dritten (z. B. Ihrem E‑Mail‑Anbieter oder Transport‑Providern) ist uns nicht möglich. Gesetzliche Aufbewahrungspflichten bleiben unberührt.
 - E‑Mail‑Dienst: Der E‑Mail‑Verkehr läuft über Proton (proton.me); deren Datenschutzhinweise sind zusätzlich maßgeblich.
 
 ## Weitergabe an Dritte / Drittländer
@@ -37,7 +37,7 @@ Wenn Sie uns per E‑Mail kontaktieren:
 
 ## Ihre Rechte
 Sie haben nach Maßgabe der DSGVO insbesondere das Recht auf **Auskunft**, **Berichtigung**, **Löschung**, **Einschränkung der Verarbeitung**, **Datenübertragbarkeit** sowie **Widerspruch**. 
-Da die Erweiterung selbst keine personenbezogenen Daten verarbeitet oder speichert, beziehen sich diese Rechte im Regelfall nur auf Daten, die Sie uns aktiv (z. B. per E‑Mail) übermitteln. Zur Ausübung Ihrer Rechte kontaktieren Sie uns bitte unter: rujbin@proton.me.
+Da die Erweiterung selbst keine personenbezogenen Daten verarbeitet oder speichert, bestehen in Bezug auf die Erweiterung keine Lösch‑/Berichtigungsansprüche, weil lokal nichts gespeichert wird. Ihre Rechte beziehen sich im Regelfall nur auf Daten, die Sie uns aktiv (z. B. per E‑Mail) übermitteln, und können nur im Rahmen unserer Verfügungsgewalt (unser Postfach) umgesetzt werden. Zur Ausübung Ihrer Rechte kontaktieren Sie uns bitte unter: rujbin@proton.me.
 
 ## Änderungen dieser Datenschutzerklärung
 Wir können diese Erklärung anpassen, wenn sich technische oder rechtliche Rahmenbedingungen ändern. Die jeweils aktuelle Fassung finden Sie im Repository der Erweiterung. Wesentliche Änderungen werden mit neuem Stand‑Datum kenntlich gemacht.
